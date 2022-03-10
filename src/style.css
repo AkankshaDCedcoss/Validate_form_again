@@ -1,0 +1,87 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#error1,#error2,#error3,#error4,#error5,#error6,#error7,#error8,#error9,#error10
+
+{
+    color: red;
+
+}
+body{
+    background-color: #ECF0F3;
+}
+label{
+    font-size: 2em;
+    margin-left: 8%;
+}
+h1{
+    margin-left: 5%;
+    margin-top: 4%;
+    font-size: 2.8em;
+}
+.main input[type='text']
+{
+   
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border: 1px solid #A6A6A6;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #A6A6A6;
+}
+#number
+{
+    margin-left: 40px;
+}
+#email
+{
+    margin-left: 135px;
+}
+#dob
+{
+    margin-left: 65px;
+}
+#lname
+{
+    margin-left: 100px;
+}
+#fname
+{
+    margin-left: 100px;
+}
+#submit
+{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-left: 7%;
+    font-size: 1.6em;
+    border-radius: 10px;
+    background-color: #A6A6A6;
+    margin-top: 5%;
+}
+#reset
+{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-left: 7%;
+    font-size: 1.6em;
+    border-radius: 10px;
+    background-color: #A6A6A6;
+}
+#success
+{
+    font-size: 4em;
+    color: green;
+    margin-left: 7%;
+
+}
